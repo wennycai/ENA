@@ -17,6 +17,10 @@ Miller's algorithm is implemented by the authors of this library (Deigo et al), 
 
 We implement scalar multiplication on the NIST-P384 curve and the NIST-P521 curve. Similarly, we give their preset files: nistp384-pm.sh and nistp521-pm.sh.
 
+### Requirements
+
+The build process requires the CMake cross-platform build system.  The GMP library is also needed in our benchmarks.
+
 ### Build instructions
 
 Instructions for building the library can be found in the [Wiki](https://github.com/relic-toolkit/relic/wiki/Building).
