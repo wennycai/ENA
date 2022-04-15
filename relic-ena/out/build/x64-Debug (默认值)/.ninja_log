@@ -1,0 +1,21 @@
+# ninja log v5
+19	663	632378438	src/CMakeFiles/relic.dir/relic_conf.c.obj	dbc2e047b41058aa
+14	668	632378438	src/CMakeFiles/relic.dir/relic_core.c.obj	ad925a698c6f1505
+25	684	632378438	src/CMakeFiles/relic.dir/arch/relic_arch_none.c.obj	af80c7a38f223ccc
+9	690	632378438	src/CMakeFiles/relic.dir/relic_err.c.obj	d7deede3a4ead2f3
+35	701	632378438	src/CMakeFiles/relic.dir/relic_util.c.obj	28e41bf7aecaeda1
+684	1051	632378439	src/CMakeFiles/relic.dir/relic_bench.c.obj	dc887e137631620
+702	1056	632378439	src/CMakeFiles/relic.dir/bn/relic_bn_cmp.c.obj	c9b970316303d06a
+663	1069	632378439	src/CMakeFiles/relic.dir/bn/relic_bn_add.c.obj	f45d46a21ef8378b
+677	1082	632378439	src/CMakeFiles/relic.dir/rand/relic_rand_hashd.c.obj	c91fe9646ddd32bf
+1052	1296	632378439	src/CMakeFiles/relic.dir/bn/relic_bn_factor.c.obj	d27eeed2ea30175a
+31	1321	632378439	src/CMakeFiles/relic.dir/rand/relic_rand_core.c.obj	736392edcfc0622b
+1057	1367	632378439	src/CMakeFiles/relic.dir/bn/relic_bn_div.c.obj	a73b0f39cb80379c
+1069	1396	632378439	src/CMakeFiles/relic.dir/bn/relic_bn_mod.c.obj	347bdb9c88727bfd
+1296	1469	632378439	src/CMakeFiles/relic.dir/bn/relic_bn_lcm.c.obj	8ba965564e4ada70
+1325	1502	632378439	src/CMakeFiles/relic.dir/bn/relic_bn_mem.c.obj	b95d40ed6fb888c1
+1084	1558	632378439	src/CMakeFiles/relic.dir/bn/relic_bn_gcd.c.obj	36e21ab25510e2cf
+1367	1576	632378439	src/CMakeFiles/relic.dir/bn/relic_bn_mul.c.obj	bff4766d1ff48221
+1397	1590	632378439	src/CMakeFiles/relic.dir/bn/relic_bn_mxp.c.obj	30e5d16ea1cacdf3
+1469	1625	632378439	src/CMakeFiles/relic.dir/bn/relic_bn_shift.c.obj	4ed08d3ba50948ee
+1502	1777	632378439	src/CMakeFiles/relic.dir/bn/relic_bn_rec.c.obj	24b6b679eb80af58
