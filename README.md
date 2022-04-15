@@ -15,10 +15,6 @@ Miller's algorithm is implemented by the authors of this library (Deigo et al), 
 
 The build process requires the CMake cross-platform build system. The GMP library is also needed in our benchmarks.
 
-### Requirements
-
-The build process requires the CMake cross-platform build system.  The GMP library is also needed in our benchmarks.
-
 ### Build instructions
 
 Instructions for building the library can be found in the [Wiki](https://github.com/relic-toolkit/relic/wiki/Building).
