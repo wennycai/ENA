@@ -24,7 +24,7 @@ Here we give a direct way to verify our code.
 1. Create a target directory : mkdir build
 2. Locate the <preset> file in the preset folder and run the following:
 cd build
-../preset/<preset>.sh ../
+cmake ../preset/<preset>.sh ../
 make
 3. Enter the bin folder and run the corresponding file.
 
